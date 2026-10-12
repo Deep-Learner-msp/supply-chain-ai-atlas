@@ -1,2 +1,7 @@
 # LinkedIn rejects automated link checkers (429 or 999), so profile links look broken in CI
 https://www.linkedin.com/
+# These sites answer automated checkers with 403 or time out. Each link was confirmed by hand.
+https://www.iso.org/
+https://unece.org/
+https://www.gartner.com/
+https://zenodo.org/
