@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Deep-Learner-msp/supply-chain-ai-atlas/stargazers"><img src="https://img.shields.io/github/stars/Deep-Learner-msp/supply-chain-ai-atlas?style=flat&logo=github&color=F2A93B" alt="stars"></a>
+  <a href="https://github.com/Deep-Learner-msp/supply-chain-ai-atlas"><img src="https://img.shields.io/github/stars/Deep-Learner-msp/supply-chain-ai-atlas?style=flat&logo=github&color=F2A93B" alt="stars"></a>
   <a href="https://github.com/Deep-Learner-msp/supply-chain-ai-atlas/actions"><img src="https://github.com/Deep-Learner-msp/supply-chain-ai-atlas/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
   <img src="https://img.shields.io/badge/papers-210%2B-F2A93B" alt="papers">
   <img src="https://img.shields.io/badge/runnable%20demos-14-5CC6A0" alt="demos">
