@@ -9,3 +9,9 @@ https://zenodo.org/
 https://www.gs1.org/
 https://www.ascm.org/
 https://www.customerexperiencedive.com/
+# These fail from CI runners at the network level (HTTP/2, TLS or connection reset) or with 403, and load in a browser (checked by hand)
+https://forecasters.org/
+https://www.cips.org/
+https://faf.ornl.gov/
+https://www.rlec.org/
+https://www.maersk.com/
