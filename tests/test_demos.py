@@ -14,6 +14,12 @@ DEMOS = {
     "implementations/06-agent-with-guardrails/agent.py": "BLOCKED",
     "implementations/07-federated-forecasting/federated.py": "Personal",
     "implementations/08-scope3-uncertainty/uncertainty.py": "Honest range",
+    "implementations/09-safety-stock/safety_stock.py": "Combined SS",
+    "implementations/10-dual-sourcing/dual_sourcing.py": "Dual 80/20",
+    "implementations/11-changeover-scheduling/changeover.py": "CP-SAT on time",
+    "implementations/12-eta-calibration/eta_conformal.py": "Conformal",
+    "implementations/13-document-validation/bol_validation.py": "Straight-through rate",
+    "implementations/14-returns-disposition/disposition.py": "EV at first touch",
     "benchmark/run.py": "Safe success",
 }
 

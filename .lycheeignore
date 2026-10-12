@@ -1,2 +1,17 @@
 # LinkedIn rejects automated link checkers (429 or 999), so profile links look broken in CI
 https://www.linkedin.com/
+# These sites answer automated checkers with 403 or time out. Each link was confirmed by hand.
+https://www.iso.org/
+https://unece.org/
+https://www.gartner.com/
+https://zenodo.org/
+# These answer GitHub's CI runners with 403 but load in a browser (checked by hand)
+https://www.gs1.org/
+https://www.ascm.org/
+https://www.customerexperiencedive.com/
+# These fail from CI runners at the network level (HTTP/2, TLS or connection reset) or with 403, and load in a browser (checked by hand)
+https://forecasters.org/
+https://www.cips.org/
+https://faf.ornl.gov/
+https://www.rlec.org/
+https://www.maersk.com/
